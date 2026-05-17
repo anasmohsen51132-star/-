@@ -1,0 +1,10 @@
+Course {
+  id
+  title
+  slug
+  description
+  thumbnail
+  price
+  isLocked
+  lectures[]
+}
