@@ -1,0 +1,3 @@
+POST /codes/generate
+POST /codes/redeem
+GET /codes/stats
