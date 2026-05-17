@@ -1,0 +1,8 @@
+Code {
+  id
+  code
+  type
+  expiresAt
+  usageLimit
+  usedCount
+}
