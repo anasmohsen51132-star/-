@@ -1,0 +1,9 @@
+prisma
+bcrypt
+jsonwebtoken
+multer
+cloudinary
+sharp
+helmet
+cors
+express-rate-limit
