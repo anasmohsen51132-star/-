@@ -1,0 +1,12 @@
+client/src/
+│
+├── app/
+├── components/
+├── features/
+├── services/
+├── hooks/
+├── store/
+├── lib/
+├── styles/
+├── types/
+└── utils/
