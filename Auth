@@ -1,0 +1,3 @@
+authorize("OWNER")
+authorize("ADMIN")
+authorize("STUDENT")
