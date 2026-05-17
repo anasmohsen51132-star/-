@@ -1,0 +1,11 @@
+academy-platform/
+│
+├── client/                 # Frontend Next.js
+│
+├── server/                 # Backend Express
+│
+├── shared/                 # Shared Types
+│
+├── docs/
+│
+└── docker/
