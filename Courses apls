@@ -1,0 +1,4 @@
+GET /courses
+POST /courses
+PATCH /courses/:id
+DELETE /courses/:id
